@@ -1,18 +1,8 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,40:203A43,100:2C5364&text=Amogh%20Vasuki&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20|%20Kubernetes%20|%20Cloud%20Security&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24&text=Amogh%20Vasuki&fontColor=ffffff&fontSize=52&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20•%20Networking%20•%20Software&descAlignY=58"/>
 </p>
 
-<div align="center">
 
-# 👋 Hi, I'm **Amogh Vasuki**
-
-### Cyber Security Student • Kubernetes Enthusiast • Networking • Cloud Security
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=750&lines=Cyber+Security+Student;Kubernetes+%26+Cloud+Learner;Networking+Enthusiast;Building+Secure+Applications;Open+to+Internships+%26+Placements"/>
-
-</div>
-
----
 
 # 👨‍💻 Operator Profile
 
@@ -21,18 +11,16 @@ Name        : Amogh Vasuki
 Location    : Bengaluru, India 🇮🇳
 Education   : B.E. Computer Science (Cyber Security)
 College     : RNS Institute of Technology
-CGPA        : 9.3 / 10
-Focus        : Cyber Security • Kubernetes • Networking
-Learning     : Docker • Kubernetes • AWS • Linux
-Organization : IEEE Computer Society
-Status       : Open to Internship & Full-Time Opportunities
+CGPA        : 9.1 / 10
+Focus       : Cyber Security • Software • Networking
+Status      : Open to Internship & Full-Time Opportunities
 ```
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amogh-vasuki-957467308/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:amogh3003@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/AV3003)
 
 </div>
 
@@ -81,7 +69,7 @@ A Kubernetes security project designed to improve container security by monitori
 
 ## 📷 Smart Attendance System
 
-QR Code based attendance management system with automated attendance recording and database integration.
+Attendance management system with automated attendance recording and database integration.
 
 **Tech Stack**
 
@@ -95,7 +83,7 @@ IoT based traffic management simulation demonstrating intelligent traffic flow o
 
 **Tech Stack**
 
-`C` `IoT`
+`C` `IoT` 'Audrino'
 
 ---
 
@@ -125,64 +113,27 @@ IoT based traffic management simulation demonstrating intelligent traffic flow o
 
 🏅 IBM Cybersecurity Analyst
 
-🏅 Google Cloud Skills Boost
+🏅 Google Cybersecurity
 
-🏅 Google Foundations of Cybersecurity
+🏅 NPTEL(Thoery of Computation)
 
-🏅 Infosys Springboard Certifications
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</div>
+🏅  Multiple Infosys Springboard Certifications
 
 ---
 
-# 📈 Most Used Languages
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
 
 ---
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
 # 🌱 Currently Learning
 
 - Kubernetes
 - Docker
 - AWS Cloud
-- Linux Administration
 - Network Security
-- DevSecOps Fundamentals
+- Java
+- C
 
 ---
 
@@ -190,11 +141,11 @@ IoT based traffic management simulation demonstrating intelligent traffic flow o
 
 - Cyber Security
 - Cloud Security
-- DevSecOps
 - Kubernetes Security
 - Network Security
 - Vulnerability Assessment
 - Security Engineering
+- Sodtware Development
 
 ---
 
@@ -211,8 +162,6 @@ IoT based traffic management simulation demonstrating intelligent traffic flow o
 
 ### 💬 *"Security is not a product, it's a continuous process."*
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
 
-⭐ **Thanks for visiting my profile! Have a great day!**
 
-</div>
+
