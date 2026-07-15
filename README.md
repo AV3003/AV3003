@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,40:203A43,100:2C5364&text=Amogh%20Vasuki&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20|%20Kubernetes%20|%20Cloud%20Security&descAlignY=58"/>
+</p>
+
 <div align="center">
 
 # 👋 Hi, I'm **Amogh Vasuki**
