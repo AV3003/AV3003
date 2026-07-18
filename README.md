@@ -145,7 +145,7 @@ IoT based traffic management simulation demonstrating intelligent traffic flow o
 - Network Security
 - Vulnerability Assessment
 - Security Engineering
-- Sodtware Development
+- Software Development
 
 ---
 
